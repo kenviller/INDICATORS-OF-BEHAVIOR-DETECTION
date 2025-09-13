@@ -1,5 +1,0 @@
-
-timestamp,connections,known_ports,unknown_ports,bytes_out
-2025-07-13 08:10:00,12,2,10,480
-2025-07-13 08:11:00,15,2,13,620
-2025-07-13 08:12:00,14,3,11,590
